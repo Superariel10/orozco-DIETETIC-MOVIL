@@ -1,0 +1,1 @@
+ /home/ariel/Downloads/flutter_shop_app/build/7ba0b84bad92cd3e354e89698e4f9570/dart_build_result.json:  /home/ariel/Downloads/flutter_shop_app/.dart_tool/package_config.json /home/ariel/Downloads/flutter_shop_app/pubspec.yaml /opt/flutter/bin/cache/dart-sdk/version
